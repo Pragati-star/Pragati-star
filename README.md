@@ -1,3 +1,4 @@
+![logo]()
 <h1 align="center">Hi 👋, I'm PRAGATI</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right"alt="coding"width="400" src="https://thumbs.gfycat.com/PoliticalEarnestChevrotain-size_restricted.gif"
